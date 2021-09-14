@@ -1,0 +1,48 @@
+# Operators are special symbols that can perform arithmatic or logical operations.
+1. Arithmatic Operations
+  1. Addition (+)
+  2. Subtraction (-)
+  3. Multiplication (*)
+  4. Division (/)
+  5. Floor Division- its like greatest integer function of division (//)
+  6. Modulus- Remainder (%)
+  7. Exponent (**)
+  Note: if any of the value is float output will be in float. In case of division output is float always.
+  In case of Modulus operator remainder is positive if diviser is positive and it is negative if diviser is negative. Divident does not play any role here.
+  
+2. Logical Operators
+  1. AND
+  2. OR
+  3. NOT
+ Note: Logical Operators always returns Boolean (True or Flase)
+
+3. Comparison/Relational Operators
+  1. euqal to (==)
+  2. Greater than (>)
+  3. less than (<)
+  4. greater than equal to (>=)
+  5. less than equal to (<=)
+  6. not equal to (!=)
+ Note: Relational operators compares actuall values and returns boolean (True or False)
+ Mostly used in conditional logics.
+ 
+4. Assignment Operators
+  1. =
+  2. +=
+  3. -=
+  4. *=
+  5. /=
+  6. **=
+  7. //=
+  8. %=
+ Note: Here new value is assign to the variable (on left hand side).
+
+5. Membership Operators
+  1. in - Check presence and returns True if present and False if not present.
+  2. not in - Returns True if not present and False if present.
+  
+6. Identity Operators
+  1. is - compares the memory address if same returns True
+  2. is not - returns True if memory address is different and False if same
+  
+7. Bitwise Operators
